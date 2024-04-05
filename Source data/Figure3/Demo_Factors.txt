@@ -1,0 +1,40 @@
+Group	Factors
+Climate	Annual_Mean_Temperature
+Climate	Annual_Precipitation
+Climate	Mean_Diurnal_Range
+	
+Human	Urban_Expansion
+Human	CO2_emissions__metric_tons_per_capita_
+Human	Energy_use__kg_of_oil_equivalent_per_capita_
+Human	GDP
+Human	GNI_PPP__current_international
+Human	Industry__including_construction
+Human	Population_density
+	
+Land use	Pesticide_usage
+Land use	Nitrogen_Fertilizer_Application
+Land use	Phosphorus_Fertilizer_Application
+Land use	Agriculture_Expansion
+Land use	Agriculture_forestry_and_fishing_value_added
+Land use	Terrestrial_and_marine_protected_areas
+Land use	Crop_Harvested
+Land use	CEC_9
+Land use	CACO3_9
+Land use	TN_9
+Land use	BD_9
+	
+Pesticide_risk	PR
+	
+Soil_nutrient	TS_9
+Soil_nutrient	TP_9
+Soil_nutrient	TK_9
+Soil_nutrient	TC_9
+Soil_nutrient	PHH2O_9
+Soil_nutrient	OC_9
+Soil_nutrient	ECE_9
+Soil_nutrient	CEC_9
+Soil_nutrient	CACO3_9
+Soil_nutrient	TN_9
+Soil_nutrient	BD_9
+	
+Multifunctionality	Multi_funcion_nokegg_noVB12
